@@ -80,7 +80,7 @@ INSERT INTO cars (model, color, price, garage_id) VALUES
 ('108', 'Red', 7990, 8),
 ('208', 'White', 8900, 8),
 ('3008', 'Black', 9900, 8),
-('308 SW', 'Yellow', 10 980, 8),
+('308 SW', 'Yellow', 10980, 8),
 ('208', 'Blue', 8900, 8),
 
 ('Classe A', 'Red', 47900, 9),
