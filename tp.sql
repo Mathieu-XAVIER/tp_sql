@@ -31,7 +31,7 @@ INSERT INTO garages (garage_name, city, creation_date, turnover) VALUES
 ('BMW', 'Paris',  '1963-08-26', 251103), 
 ('Peugeot', 'Toulouse',  '2001-01-01', 372087), 
 ('Mercedes', 'Nante', '1969-12-22', 259254),
-('Opel', 'Rennes', '1951-08-12', 357112) 
+('Opel', 'Rennes', '1951-08-12', 357112);
 
 
 INSERT INTO cars (model, color, price, garage_id) VALUES
